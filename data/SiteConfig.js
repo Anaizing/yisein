@@ -1,46 +1,44 @@
 module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
-  blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
+  blogAuthorDir: "sample-authors", // The name of directory that contains your authors.
   blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
-  siteTitle: "Gatsby Casper Starter", // Site title.
-  siteTitleAlt: "GatsbyJS Casper Theme Starter", // Alternative site title for SEO.
-  siteLogo:
-    "https://haysclark.github.io/gatsby-starter-casper/logos/logo-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
+  siteTitle: "Yisein Sanchez", // Site title.
+  siteTitleAlt: "Kai-Di Yisein nanowrimo writer", // Alternative site title for SEO.
+  siteLogo: "/logos/logo-k1.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-starter-casper", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
-    "A Casper themed GatsbyJS stater based on the Advanced Starter.", // Website description used for RSS feeds/meta description tag.
+    "She's a mermaid, but approach her with caution. Her mind swims at a depth most would drown in", // Website description used for RSS feeds/meta description tag.
   siteCover:
-    "https://haysclark.github.io/gatsby-starter-casper/images/blog-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+    "https://images.unsplash.com/photo-1483937781853-2907c01dc56d?ixlib=rb-0.3.5&s=a6458bc38bbe2a783cd192888dd589b2&auto=format&fit=crop&w=1500&q=80",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
-  siteRssAuthor: "Casper User", // The author name used in the RSS file
+  siteRssAuthor: "Kai-Di Banton", // The author name used in the RSS file
   // siteFBAppID: "1825356251115265", // optional, sets the FB Application ID for using app insights
   sitePaginationLimit: 10, // The max number of posts per page.
   googleAnalyticsID: "UA-111982167-1", // GA tracking ID.
-  // disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // enables Disqus comments, visually deviates from original Casper theme.
   siteSocialUrls: [
-    "https://github.com/haysclark/gatsby-starter-casper",
-    "https://twitter.com/gatsbyjs",
-    "mailto:gatsbyjs@example.com"
+    "https://www.instagram.com/yisein/",
+    "https://twitter.com/_Yisein",
+    "mailto:bantonkaidi@gmail.com"
   ],
-  postDefaultCategoryID: "Tech", // Default category for posts.
+  postDefaultCategoryID: "Writing", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
   userLinks: [
     {
-      label: "GitHub",
-      url: "https://github.com/haysclark/gatsby-starter-casper",
-      iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
-    },
-    {
       label: "Twitter",
-      url: "https://twitter.com/gatsbyjs",
+      url: "https://twitter.com/_Yisein",
       iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
     },
     {
       label: "Email",
-      url: "mailto:gatsbyjs@example.com",
+      url: "mailto:bantonkaidi@gmail.com",
       iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
+    },
+    {
+      label: "Instagram",
+      url: "https://www.instagram.com/yisein/",
+      iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
     }
   ],
   // Copyright string for the footer of the website and RSS feed.
