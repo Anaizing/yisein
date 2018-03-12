@@ -2,7 +2,7 @@ module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
   blogAuthorDir: "sample-authors", // The name of directory that contains your authors.
   blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
-  siteTitle: "Yisein Sanchez", // Site title.
+  siteTitle: "Yisein", // Site title.
   siteTitleAlt: "Kai-Di Yisein nanowrimo writer", // Alternative site title for SEO.
   siteLogo: "/logos/logo-k1.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
