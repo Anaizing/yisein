@@ -16,7 +16,7 @@
     z-index: 5;
     width: 240px;
     opacity: 0;
-    background: #111;
+    background: #FDD43D;
     margin-bottom: 0;
     text-align: left;
     overflow-y: auto;
@@ -79,7 +79,7 @@
     /* top: 0; - duplicate inherited from original casper CSS */
     width: 20px;
     height: 1px;
-    background: rgb(150, 150, 150);
+    background: #02006C;
     top: 15px;
     -webkit-transition: background 0.15s ease;
     transition: background 0.15s ease;
@@ -116,7 +116,7 @@
     text-align: right;
     font-size: 1.2rem;
     vertical-align: bottom;
-    color: #b8b8b8;
+    color: #02006C;
     content: counter(item, lower-roman);
     counter-increment: item;
 }
@@ -156,7 +156,7 @@
 
 .nav a:link,
 .nav a:visited {
-    color: #b8b8b8;
+    color: #02006C;
 }
 
 .nav li.nav-current a,
