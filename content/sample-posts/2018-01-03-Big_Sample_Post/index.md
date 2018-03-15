@@ -4,7 +4,6 @@ cover: "https://images.unsplash.com/photo-1496843916299-590492c751f4?ixlib=rb-0.
 author: "anai"
 category: "moar"
 date: "2018-01-03"
-slug: "Big-Sample_Test"
 tags:
     - best
     - sister
