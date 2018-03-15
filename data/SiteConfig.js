@@ -5,8 +5,8 @@ module.exports = {
   siteTitle: "Yisein", // Site title.
   siteTitleAlt: "Kai-Di Yisein nanowrimo writer", // Alternative site title for SEO.
   siteLogo: "/logos/logo-k1.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/gatsby-starter-casper", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  siteUrl: "https://boring-bassi-338075.netlify.com/", // Domain of your website without pathPrefix.
+  pathPrefix: "/yisein", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "She's a mermaid, but approach her with caution. Her mind swims at a depth most would drown in", // Website description used for RSS feeds/meta description tag.
   siteCover:
@@ -43,11 +43,11 @@ module.exports = {
   ],
   // Copyright string for the footer of the website and RSS feed.
   copyright: {
-    label: "Gatsby Casper Starter" // Label used before the year
+    label: "Yisein Blogger" // Label used before the year
     // year: "2018" // optional, set specific copyright year or range of years, defaults to current year
     // url: "https://www.gatsbyjs.org/" // optional, set link address of copyright, defaults to site root
   },
   themeColor: "#c62828", // Used for setting manifest and progress theme colors.
   backgroundColor: "#e0e0e0", // Used for setting manifest background color.
-  promoteGatsby: true // Enables the GatsbyJS promotion information in footer.
+  promoteGatsby: false // Enables the GatsbyJS promotion information in footer.
 };
