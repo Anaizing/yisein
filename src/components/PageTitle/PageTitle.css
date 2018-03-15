@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One|Raleway');
+
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
     margin: 10px 0;
     font-size: 7rem;
     letter-spacing: -1px;
-    font-family: "Cinzel", sans-serif;
+    font-family: "Julius Sans One", "Raleway", sans-serif;
     color: #fff;
     /*text-shadow: 10px 5px 5px yellow;*/
 }
