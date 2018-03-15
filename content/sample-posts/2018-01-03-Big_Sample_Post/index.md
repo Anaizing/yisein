@@ -6,9 +6,9 @@ category: "moar"
 date: "2018-01-03"
 slug: "Big-Sample_Test"
 tags:
-    - birthday
-    - huge
-    - another
+    - best
+    - sister
+    - ever
 ---
 
 # This is how you can write in markdown
