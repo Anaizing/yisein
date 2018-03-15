@@ -1,6 +1,6 @@
 ---
 title: "Angels of Mist"
-cover: "https://unsplash.it/1280/900/?random?AngelsofMist"
+cover: "https://images.unsplash.com/photo-1473187983305-f615310e7daa?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ccb48efc3720051b4ccc29c39a43f0c9&auto=format&fit=crop&w=1500&q=80"
 category: "test3"
 date: "2017-01-03"
 tags:

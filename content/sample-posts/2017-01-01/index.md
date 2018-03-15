@@ -1,6 +1,6 @@
 ---
 title: "Bold Mage"
-cover: "https://unsplash.it/1280/500/?random?BoldMage"
+cover: "https://images.unsplash.com/photo-1504616267454-5460d659c9be?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=09998d21def97045a672324b9b903acc&auto=format&fit=crop&w=1500&q=80"
 author: "anai"
 date: "2017-01-01"
 category: "tech"
